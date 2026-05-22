@@ -1,4 +1,4 @@
-# 实习工具箱
+# PM工具箱
 
 可直接喂给任何 AI（DeepSeek、豆包、ChatGPT、Claude 等）的提示词集合。
 
