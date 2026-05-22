@@ -22,6 +22,7 @@
 | 10 | [10-prioritization.md](10-prioritization.md) | 需求优先级排序 | 粘贴给 AI，列出多个需求让 AI 打分排序 |
 | 11 | [11-test-scenarios.md](11-test-scenarios.md) | 测试/验收用例 | 粘贴给 AI，附上用户故事或 PRD |
 | 12 | [12-debugging-sop.md](12-debugging-sop.md) | 问题排查 SOP | 粘贴给 AI，描述你遇到的 BadCase 现象 |
+| 13 | [13-task-breakdown.md](13-task-breakdown.md) | 模糊任务拆解（问题界定→实验方案） | 粘贴给 AI，描述你接到的模糊指标任务 |
 
 ---
 
